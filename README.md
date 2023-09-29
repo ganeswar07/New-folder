@@ -56,6 +56,14 @@ This web application is a simple To-Do List that allows users to add, edit, and 
 - `style.css`: CSS file for styling the application.
 - `script.js`: JavaScript file containing the application logic.
 
+
+
+
+## Preview
+
+[Go to To-Do List App](https://ganeswar07.github.io/To-do-list/)
+
+
 ## Contributing
 
 If you want to contribute to the project, please fork the repository and create a pull request with your changes.
