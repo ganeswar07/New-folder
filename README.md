@@ -19,7 +19,7 @@ This web application is a simple To-Do List that allows users to add, edit, and 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ganeswar07/To-do-list.git
    ```
 
 2. Open the project in your preferred code editor.
